@@ -3,7 +3,7 @@ name: Automated UniFi Camera Snapshot
 on:
   schedule:
     # This runs the script automatically every hour. Change it using cron syntax if needed.
-    - cron: '0 * * * *'
+    - cron: '23 * * * *'
   workflow_dispatch: # This allows you to manually click a "Run workflow" button in GitHub
 
 jobs:
