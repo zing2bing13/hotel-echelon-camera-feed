@@ -1,1 +1,1 @@
-{"code":"DeviceTimeout","httpStatusCode":408,"message":"Device ID: 1C6A1B5933B20000000008D3ED0000000000094CA4DF0000000067CC0E86:1406332704, Request ID: f7410a27a3732261cb89ae2a1bed80df, Error: timeout","traceId":"f7410a27a3732261cb89ae2a1bed80df"}
+{"code":"DeviceTimeout","httpStatusCode":408,"message":"Device ID: 1C6A1B5933B20000000008D3ED0000000000094CA4DF0000000067CC0E86:1406332704, Request ID: b1561a72d5ab946fb0d95337b9c629a1, Error: timeout","traceId":"b1561a72d5ab946fb0d95337b9c629a1"}
