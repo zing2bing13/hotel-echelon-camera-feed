@@ -1,1 +1,1 @@
-{"code":"DeviceTimeout","httpStatusCode":408,"message":"Device ID: 1C6A1B5933B20000000008D3ED0000000000094CA4DF0000000067CC0E86:1406332704, Request ID: 97d46943f1dfb9e9e3e669bbd0207a65, Error: timeout","traceId":"97d46943f1dfb9e9e3e669bbd0207a65"}
+{"code":"device_offline","httpStatusCode":404,"message":"device is offline","traceId":"a8d06ee187c18536fcdf282d3d19e503"}
